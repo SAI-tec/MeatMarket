@@ -7,7 +7,7 @@ namespace MeatMarket
 {
     public class Employee
     {
-        public int EmployeeName { get; set; }
+        public string EmployeeName { get; set; }
         public string EmployeeIds { get; set; }
     }
 }
