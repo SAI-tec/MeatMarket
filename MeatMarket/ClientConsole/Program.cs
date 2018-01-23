@@ -13,8 +13,9 @@ namespace ClientConsole
         {
             try
             {
-                CustomerDAL dal = new CustomerDAL();
-                var t = dal.GetAll();
+                //CustomerDAL dal = new CustomerDAL();
+                //var t = dal.GetAll();
+               // dal.Update(1);
             }
             catch(Exception ex)
             {
