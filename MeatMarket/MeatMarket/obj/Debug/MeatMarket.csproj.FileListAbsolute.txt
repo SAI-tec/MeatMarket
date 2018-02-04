@@ -32,3 +32,36 @@ C:\Users\Divya palreddy\Desktop\Projects\MeatMarket\MeatMarket\MeatMarket\obj\De
 C:\Users\Divya palreddy\Desktop\Projects\MeatMarket\MeatMarket\MeatMarket\obj\Debug\MeatMarket.csproj.CoreCompileInputs.cache
 C:\Users\Divya palreddy\Desktop\Projects\MeatMarket\MeatMarket\MeatMarket\obj\Debug\MeatMarket.dll
 C:\Users\Divya palreddy\Desktop\Projects\MeatMarket\MeatMarket\MeatMarket\obj\Debug\MeatMarket.pdb
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\ApplicationInsights.config
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\roslyn\csc.exe
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\roslyn\vbc.exe
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\roslyn\VBCSCompiler.exe
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\MeatMarket.dll.config
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\MeatMarket.dll
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\MeatMarket.pdb
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\Microsoft.AI.Web.dll
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\Microsoft.AI.WindowsServer.dll
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\Microsoft.ApplicationInsights.dll
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\Microsoft.AI.Web.xml
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\Microsoft.AI.WindowsServer.xml
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\Microsoft.ApplicationInsights.xml
+C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Project\MeatMarket\MeatMarket\MeatMarket\obj\Debug\MeatMarket.csprojResolveAssemblyReference.cache
+C:\Project\MeatMarket\MeatMarket\MeatMarket\obj\Debug\MeatMarket.dll
+C:\Project\MeatMarket\MeatMarket\MeatMarket\obj\Debug\MeatMarket.pdb

@@ -8,3 +8,7 @@ C:\Users\Divya palreddy\Desktop\Projects\MeatMarket\MeatMarket\ClientConsole\bin
 C:\Users\Divya palreddy\Desktop\Projects\MeatMarket\MeatMarket\ClientConsole\obj\Debug\ClientConsole.csprojResolveAssemblyReference.cache
 C:\Users\Divya palreddy\Desktop\Projects\MeatMarket\MeatMarket\ClientConsole\obj\Debug\ClientConsole.exe
 C:\Users\Divya palreddy\Desktop\Projects\MeatMarket\MeatMarket\ClientConsole\obj\Debug\ClientConsole.pdb
+C:\Project\MeatMarket\MeatMarket\ClientConsole\bin\Debug\ClientConsole.exe.config
+C:\Project\MeatMarket\MeatMarket\ClientConsole\obj\Debug\ClientConsole.exe
+C:\Project\MeatMarket\MeatMarket\ClientConsole\obj\Debug\ClientConsole.pdb
+C:\Project\MeatMarket\MeatMarket\ClientConsole\obj\Debug\ClientConsole.csprojResolveAssemblyReference.cache
