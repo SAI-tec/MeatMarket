@@ -62,6 +62,6 @@ C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\Microsoft.AI.Web.xml
 C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\Microsoft.AI.WindowsServer.xml
 C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\Microsoft.ApplicationInsights.xml
 C:\Project\MeatMarket\MeatMarket\MeatMarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Project\MeatMarket\MeatMarket\MeatMarket\obj\Debug\MeatMarket.csprojResolveAssemblyReference.cache
 C:\Project\MeatMarket\MeatMarket\MeatMarket\obj\Debug\MeatMarket.dll
 C:\Project\MeatMarket\MeatMarket\MeatMarket\obj\Debug\MeatMarket.pdb
+C:\Project\MeatMarket\MeatMarket\MeatMarket\obj\Debug\MeatMarket.csprojResolveAssemblyReference.cache

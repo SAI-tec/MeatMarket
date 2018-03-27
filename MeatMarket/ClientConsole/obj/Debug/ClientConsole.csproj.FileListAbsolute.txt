@@ -9,6 +9,14 @@ C:\Users\Divya palreddy\Desktop\Projects\MeatMarket\MeatMarket\ClientConsole\obj
 C:\Users\Divya palreddy\Desktop\Projects\MeatMarket\MeatMarket\ClientConsole\obj\Debug\ClientConsole.exe
 C:\Users\Divya palreddy\Desktop\Projects\MeatMarket\MeatMarket\ClientConsole\obj\Debug\ClientConsole.pdb
 C:\Project\MeatMarket\MeatMarket\ClientConsole\bin\Debug\ClientConsole.exe.config
+C:\Project\MeatMarket\MeatMarket\ClientConsole\bin\Debug\ClientConsole.exe.manifest
+C:\Project\MeatMarket\MeatMarket\ClientConsole\bin\Debug\ClientConsole.application
+C:\Project\MeatMarket\MeatMarket\ClientConsole\bin\Debug\ClientConsole.exe
+C:\Project\MeatMarket\MeatMarket\ClientConsole\bin\Debug\ClientConsole.pdb
+C:\Project\MeatMarket\MeatMarket\ClientConsole\bin\Debug\DataAccessLayer.dll
+C:\Project\MeatMarket\MeatMarket\ClientConsole\bin\Debug\DataAccessLayer.pdb
+C:\Project\MeatMarket\MeatMarket\ClientConsole\obj\Debug\ClientConsole.csprojResolveAssemblyReference.cache
+C:\Project\MeatMarket\MeatMarket\ClientConsole\obj\Debug\ClientConsole.exe.manifest
+C:\Project\MeatMarket\MeatMarket\ClientConsole\obj\Debug\ClientConsole.application
 C:\Project\MeatMarket\MeatMarket\ClientConsole\obj\Debug\ClientConsole.exe
 C:\Project\MeatMarket\MeatMarket\ClientConsole\obj\Debug\ClientConsole.pdb
-C:\Project\MeatMarket\MeatMarket\ClientConsole\obj\Debug\ClientConsole.csprojResolveAssemblyReference.cache

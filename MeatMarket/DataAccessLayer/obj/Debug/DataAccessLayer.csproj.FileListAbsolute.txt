@@ -8,6 +8,6 @@ C:\Users\Divya palreddy\Desktop\Projects\MeatMarket\MeatMarket\DataAccessLayer\o
 C:\Project\MeatMarket\MeatMarket\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
 C:\Project\MeatMarket\MeatMarket\DataAccessLayer\bin\Debug\DataAccessLayer.dll
 C:\Project\MeatMarket\MeatMarket\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
-C:\Project\MeatMarket\MeatMarket\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
 C:\Project\MeatMarket\MeatMarket\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Project\MeatMarket\MeatMarket\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Project\MeatMarket\MeatMarket\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache

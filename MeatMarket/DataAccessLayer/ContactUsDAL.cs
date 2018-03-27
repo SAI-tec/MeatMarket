@@ -9,7 +9,12 @@ using System.Configuration;
 
 namespace DataAccessLayer
 {
-    public class ContactUsDAL : BaseDAL<Contacts> 
+    public interface IContactUsDAL {
+        IResponse GetAll();
+        IResponse Create(Contacts Contact);
+    }
+
+    public class ContactUsDAL : BaseDAL<Contacts> , IContactUsDAL
     {
         
         public override IResponse GetAll()
@@ -57,9 +62,9 @@ namespace DataAccessLayer
             });
         }
         
-        public override void Remove(int Id)
+        public override IResponse Remove(int Id)
         {
-            base.Connect( (conn) =>
+           return base.Connect( (conn) =>
             {
                 conn.Open();
                 SqlCommand Command = new SqlCommand("Delete From [dbo].[ContactUs] where Id = @Id ", conn);
@@ -71,9 +76,10 @@ namespace DataAccessLayer
             });
         }
        
-        public override void Update(Contacts Contact)
+        public override IResponse Update(Contacts Contact)
         {
-            base.Connect((conn) =>
+
+            return base.Connect((conn) =>
             {
                 conn.Open();
 
@@ -119,9 +125,13 @@ namespace DataAccessLayer
     public class Contacts
     {
         public int Id { get; set; }
+        //must be less than 100 characters
         public string ContactName { get; set; }
+        // numbers not characters
         public string PhoneNumber { get; set; }
+        // Email validation
         public string EmailAddress { get; set; }
+        // string length should be less than 4000
         public string Comment { get; set; }
 
     }

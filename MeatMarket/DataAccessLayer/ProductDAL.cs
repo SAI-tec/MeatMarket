@@ -11,9 +11,7 @@ namespace DataAccessLayer
 {
    public  class ProductDAL : BaseDAL<Product>
     {
-       
-
-        public override IResponse GetAll()
+       public override IResponse GetAll()
         {
             List<Product> ProductList = new List<Product>();
 
@@ -86,9 +84,9 @@ namespace DataAccessLayer
             });
         }
 
-        public override void Remove(int ProductId)
+        public override IResponse Remove(int ProductId)
         {
-            base.Connect((conn) =>
+           return base.Connect((conn) =>
             {
                 conn.Open();
                 SqlCommand Command = new SqlCommand("Delete From [dbo].[Product] where ProductId = @ProductId ", conn);
@@ -100,10 +98,10 @@ namespace DataAccessLayer
             });
         }
 
-        public override void Update(Product Product)
+        public override IResponse Update(Product Product)
         {
 
-            base.Connect((conn) =>
+            return base.Connect((conn) =>
             {
                 conn.Open();
 

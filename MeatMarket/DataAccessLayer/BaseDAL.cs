@@ -8,10 +8,20 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer
 {
-    public abstract class BaseDAL<T> where T : class
+    public abstract class BaseDAL<T> : IRepository<T> where T : class
     {
         static string _connectionString = ConfigurationManager.ConnectionStrings["MeatMarketConnection"].ConnectionString;
         public static string ConnectionString { get { return _connectionString; } }
+
+        public abstract IResponse Create(T data);
+
+        public abstract IResponse GetAll();
+
+        public abstract IResponse GetById(int data);
+
+        public abstract IResponse Remove(int data);
+
+        public abstract IResponse Update(T data);
 
         protected IResponse Connect(Func<SqlConnection, IResponse> executeCommand)
         {
@@ -28,11 +38,15 @@ namespace DataAccessLayer
                 return new ErrorsResponse() { Errors = new string[] { ex.ToString() } };
             }
         }
-        public abstract IResponse GetAll();
-        public abstract IResponse GetById(int data);
-        public abstract IResponse Create(T data);
-        public abstract void Remove(int data);
-        public abstract void Update(T data);
+        
+    }
+
+    public interface IRepository<T> where T:class {
+         IResponse GetAll();
+        IResponse GetById(int data);
+        IResponse Create(T data);
+        IResponse Remove(int data);
+        IResponse Update(T data);
     }
 
 

@@ -72,9 +72,9 @@ namespace DataAccessLayer
             });
         }
 
-        public override void Update(Order Orders)
+        public override IResponse Update(Order Orders)
         {
-            base.Connect((conn) =>
+           return base.Connect((conn) =>
             {
                 conn.Open();
 
@@ -89,9 +89,9 @@ namespace DataAccessLayer
             });
         }
 
-        public override void Remove(int OrderID)
+        public override IResponse Remove(int OrderID)
         {
-            base.Connect((conn) =>
+           return base.Connect((conn) =>
             {
                 conn.Open();
                 SqlCommand Command = new SqlCommand("Delete From [dbo].[Orders] where OrderID = @OrderID ", conn);
